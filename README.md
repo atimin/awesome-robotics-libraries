@@ -227,7 +227,8 @@ _Middleware and frameworks for building robot software systems._
 * 🟢 [ROS 2](https://github.com/ros2/ros2/wiki) - Version 2.0 of the Robot Operating System (ROS) software stack. [⭐ 5.7k](https://github.com/ros2/ros2)
 * 🟢 [ros2_medkit](https://selfpatch.github.io/ros2_medkit/) - Structured fault management for ROS 2 — persistent fault lifecycle, REST/SSE API, root cause correlation, and automatic rosbag capture on fault. Inspired by SOVD (Service-Oriented Vehicle Diagnostics), the ASAM standard that brings HTTP/REST diagnostics to automotive and robotics. [⭐ 233](https://github.com/selfpatch/ros2_medkit)
 * 🟢 [YARP](https://www.yarp.it/) - Communication and device interfaces applicable from humanoids to embedded devices. [⭐ 596](https://github.com/robotology/yarp)
-
+* 🟢 [ReductStore](https://www.reduct.store/) - High performance data storage and streaming for robotics and industrial IoT with ROS2 and Zenoh integration . [⭐ 362](https://github.com/reductstore/reductstore)
+  
 ### [Reinforcement Learning for Robotics](#contents)
 
 _Reinforcement learning libraries commonly used in robotic control._
